@@ -15,7 +15,7 @@ apply plugin: 'java-library'
 apply plugin: 'maven-publish'
 apply plugin: 'ru.vyarus.quality'
 
-sourceCompatibility = 1.8
+sourceCompatibility = '11'
 
 repositories {
     mavenCentral()
